@@ -6,7 +6,7 @@
 1. **Графический интерфейс должен отсутствовать.**
 		1. Выполняем команду `ls /user/bin/*session`
 		2. Команда должна вывести результат `/usr/bin/byobu-select-session /usr/bin/dbus-run-session`, если графического интерфейса нет
-		![[part1.1.png]]
+		![alt text](image.png)
 		Скриншот 1. Вывод команды `ls /user/bin/*session`
 		
 2. **Текущая версия Ubuntu.**
